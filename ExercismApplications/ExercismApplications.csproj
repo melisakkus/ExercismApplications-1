@@ -47,6 +47,7 @@
     <Compile Include="BirdCount.cs" />
     <Compile Include="ElonsToys.cs" />
     <Compile Include="Leap.cs" />
+    <Compile Include="LogLevels.cs" />
     <Compile Include="LuciansLusciousLasagna.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
